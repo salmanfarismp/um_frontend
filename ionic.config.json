@@ -1,7 +1,0 @@
-{
-  "name": "um_frontend",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
